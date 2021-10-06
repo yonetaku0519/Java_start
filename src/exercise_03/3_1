@@ -1,0 +1,16 @@
+1：
+byte	8ビット	
+short	16ビット	
+int		32ビット	5
+long	64ビット	2
+double	64ビット	1
+float	32ビット	3
+char	16ビット	6
+String			4
+
+2：
+C　D　F
+
+3：
+B E
+
