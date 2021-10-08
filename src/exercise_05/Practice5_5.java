@@ -10,5 +10,4 @@ public class Practice5_5 {
 		System.out.println("b=" + b);
 		System.out.println("c=" + c);
 	}
-	åç
 }
